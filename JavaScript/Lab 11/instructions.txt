@@ -1,0 +1,10 @@
+Extend the code from the chat server example to add
+support for the following features:
+
+1) Typing '\list' will list the names of all other
+ users.
+2) Typing '\rename <newname>' will let the user 
+specify a new name for himself/herself.
+
+3) Typing '\private <name> <msg>' will send a 
+message only to the specified user.
